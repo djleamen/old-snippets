@@ -1,5 +1,3 @@
-package datastructures.TowersOfHanoi;
-
 /**
  * Represents a disc in the Towers of Hanoi problem.
  * Each disc has a width and may have another disc below it.

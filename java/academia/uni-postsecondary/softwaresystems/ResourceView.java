@@ -1,4 +1,9 @@
-package softwaresystems;
+/*
+ * Description: This class is used to create a GUI that displays the contents of a folder in a tree structure.
+ * It uses Java Swing components to create the GUI and allows users to navigate through the folder structure.
+ * The class includes methods to build the tree structure from the folder contents and display it in a JTree component.
+ */
+
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
 import java.awt.*;

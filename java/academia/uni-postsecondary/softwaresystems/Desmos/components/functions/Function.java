@@ -1,12 +1,18 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description: This is an abstract class representing a mathematical 
+ * function in a graphing application. It provides methods to draw the
+ * function, calculate its value at a given x-coordinate, and find
+ * its x-intercepts, critical points, and inflection points. The class
+ * also defines the first and second derivatives of the function.
+ */
 
 import java.awt.Graphics2D;
 import java.util.HashSet;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.GraphComponent;
-import csci2020u.lab09.components.Point;
-import csci2020u.lab09.enums.FunctionType;
-import csci2020u.lab09.enums.RootType;
+import GraphGUI;
+import GraphComponent;
+import Point;
+import FunctionType;
+import RootType;
 
 public abstract class Function extends GraphComponent {
     

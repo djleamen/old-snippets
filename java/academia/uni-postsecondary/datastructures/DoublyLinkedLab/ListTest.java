@@ -1,4 +1,3 @@
-package datastructures.DoublyLinkedLab;
 // Description: Test class for DoublyLinkedList
 
 public class ListTest {

@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Generate all subsets of a set of distinct integers using backtracking.
 
 import java.util.ArrayList;

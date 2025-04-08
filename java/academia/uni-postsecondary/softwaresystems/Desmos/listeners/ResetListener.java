@@ -1,9 +1,13 @@
-package csci2020u.lab09.listeners;
+/*
+ * Description: This class implements the ActionListener interface to handle
+ * the reset action in a graphing application. When the reset button is clicked,
+ * it resets the fields in the GUI and repaints the graph panel.
+ */
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.GraphPanel;
+import GraphGUI;
+import GraphPanel;
 
 public class ResetListener implements ActionListener {
 

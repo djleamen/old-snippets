@@ -1,7 +1,12 @@
- package csci2020u.lab09.components;
+/*
+ * Description: This class represents a Cartesian plane for graphing functions.
+ * It extends the GraphComponent class and provides methods to draw the grid,
+ * axes, and labels on the plane. The class uses a Graphics2D object to perform
+ * the drawing operations. 
+ */
 
 import java.awt.Graphics2D;
-import csci2020u.lab09.GraphGUI;
+import GraphGUI;
 import java.awt.Color; // added for color
 
 public class CartesianPlane extends GraphComponent {

@@ -1,4 +1,7 @@
-package softwaresystems.Sockets;
+/*
+ * Description: A simple socket client that connects to a server, sends a user name, and exchanges messages.
+ */
+
 import java.io.*;
 import java.net.*;
 

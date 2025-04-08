@@ -1,11 +1,15 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description: This class represents a logarithmic function 
+ * and provides methods to calculate its first and second derivatives, 
+ * critical points, inflection points, and value at a given x.
+ */
 
 import java.util.HashSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.Point;
-import csci2020u.lab09.enums.FunctionType;
+import GraphGUI;
+import Point;
+import FunctionType;
 
 public class Logarithmic extends Function {
 

@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A simple student directory that uses a HashMap to store students.
 
 import java.util.HashMap;

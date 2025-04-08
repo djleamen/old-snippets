@@ -1,4 +1,3 @@
-package datastructures.Stack;
 // This is a test class for the Stack class
 
 public class StackTest {

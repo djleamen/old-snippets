@@ -1,4 +1,10 @@
-package softwaresystems.SpaceExploration;
+/*
+ * Description: This class represents a singleton instance of Mission Control for a space exploration program.
+ * It manages the operational status and logs of the mission control system.
+ * The class provides methods to start and end operations, and to retrieve operational logs.
+ * It ensures that only one instance of Mission Control exists at any time (Singleton pattern).
+ */
+
 import java.util.ArrayList;
 
 public class MissionControl {

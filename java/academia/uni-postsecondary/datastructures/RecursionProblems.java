@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program contains three recursion problems: Triangle, Sum Digits, and powerN.
 
 public class RecursionProblems {

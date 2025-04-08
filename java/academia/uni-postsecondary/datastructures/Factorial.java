@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A program that calculates the factorial of a number.
 
 public class Factorial {

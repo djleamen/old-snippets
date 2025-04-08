@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program calculates the sum of the elements in an array using recursion.
 
 public class SumOfArrays {

@@ -1,9 +1,13 @@
-package csci2020u.lab09.listeners;
+/*
+ * Description: This class implements the ActionListener interface to handle zoom in and zoom out actions.
+ * When the user clicks the zoom in or zoom out button, it adjusts the zoom level of the graph.
+ * It uses a constant ZOOM_FACTOR to determine the amount of zoom change.
+ */
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.GraphPanel;
+import GraphGUI;
+import GraphPanel;
 
 public class ZoomListener implements ActionListener {
     

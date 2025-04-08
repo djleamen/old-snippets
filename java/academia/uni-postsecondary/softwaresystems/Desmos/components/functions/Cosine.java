@@ -1,7 +1,15 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description:
+ * This class represents the cosine function in a graphing application.
+ * It extends the Trignometric class and provides methods to calculate
+ * the first and second derivatives of the cosine function.
+ * It also provides a method to calculate the value of the function
+ * at a given x-coordinate, depending on the type of function (original,
+ * first derivative, second derivative, or third derivative).
+ */
 
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.enums.FunctionType;
+import GraphGUI;
+import FunctionType;
 
 public class Cosine extends Trignometric {
     

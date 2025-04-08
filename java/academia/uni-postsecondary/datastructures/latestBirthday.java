@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program finds the latest birthday in an array of dates.
 
 public class latestBirthday {

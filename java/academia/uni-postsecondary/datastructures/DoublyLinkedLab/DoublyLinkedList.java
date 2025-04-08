@@ -1,4 +1,3 @@
-package datastructures.DoublyLinkedLab;
 // Description: DoublyLinkedList class that contains a head and tail node, and a length variable to keep track of the list. 
 
 public class DoublyLinkedList<E> {

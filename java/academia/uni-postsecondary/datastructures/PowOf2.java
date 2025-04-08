@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A program that creates a list of the first 10 powers of 2 and then prints them out.
 
 import java.util.*;

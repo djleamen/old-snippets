@@ -1,4 +1,10 @@
-package softwaresystems.Sockets;
+/*
+ * Description: This is a simple socket server that listens for incoming connections
+ * from clients. It accepts a connection, reads a user name from the client, and then
+ * enters a loop where it reads messages from the client and sends responses back.
+ * The server will continue to run until the client sends the message "exit".
+ */
+
 import java.io.*;
 import java.net.*;
 

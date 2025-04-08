@@ -1,5 +1,3 @@
-package datastructures.TreeLab;
-
 // Description: This class is used to test the Company class and its methods.
 
 public class MyTechCompany {

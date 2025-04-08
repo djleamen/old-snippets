@@ -1,4 +1,5 @@
-package csci2020u.lab10.server;
+// Description: This program implements a simple ATM server that 
+// handles user authentication and balance management.
 
 import java.net.Socket;
 import java.io.*;

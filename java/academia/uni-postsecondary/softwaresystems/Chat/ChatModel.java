@@ -1,3 +1,6 @@
+// Description: This class represents the model for a chat application. 
+// It stores messages in a list and provides methods to add and retrieve messages.
+
 import java.util.ArrayList;
 import java.util.List;
 

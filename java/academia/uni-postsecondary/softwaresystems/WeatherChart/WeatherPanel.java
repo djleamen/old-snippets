@@ -1,3 +1,10 @@
+/*
+ * Description:
+ * This class represents a JPanel that displays a pie chart of weather warnings.
+ * It reads data from a CSV file and counts the occurrences of different warning types.
+ * The pie chart is drawn in the paintComponent method, and a legend is displayed.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;

@@ -1,13 +1,18 @@
-package csci2020u.lab09.components;
+/*
+ * Description: This class represents a panel for displaying a graph and its components.
+ * It extends JPanel and contains a list of GraphComponent objects.
+ * The class provides methods to set the function, Cartesian plane, and
+ * to paint the components on the panel.
+ */
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.util.HashSet;
 import java.util.LinkedList;
 import javax.swing.JPanel;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.functions.Function;
-import csci2020u.lab09.listeners.PointClickListener;
+import GraphGUI;
+import Function;
+import PointClickListener;
 
 public class GraphPanel extends JPanel {
 

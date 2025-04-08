@@ -1,7 +1,12 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description: This class represents a sine function and extends 
+ * the Trignometric class. It provides methods to calculate the 
+ * first and second derivatives, as well as the value of the function
+ * at a given x-coordinate. 
+ */
 
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.enums.FunctionType;
+import GraphGUI;
+import FunctionType;
 
 public class Sine extends Trignometric {
 

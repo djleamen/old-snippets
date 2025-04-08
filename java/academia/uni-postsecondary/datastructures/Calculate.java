@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program calculates the factorial of a number, the nth number in the 
 // fibonacci sequence, and the power of a number.
 import java.util.Scanner;

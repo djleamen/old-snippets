@@ -1,6 +1,12 @@
-package softwaresystems.Megaman;
-import softwaresystems.Megaman.SpriteGUI;
-import softwaresystems.Megaman.SliderListener;
+/*
+ * Description: 
+ * This class creates a slider to control the speed of the animation in the SpriteGUI.
+ * It uses a JSlider to allow the user to select a speed from slow to fast.
+ * The slider's value is linked to a Timer that controls the animation speed.
+ */
+
+import SpriteGUI;
+import SliderListener;
 
 import javax.swing.*;
 import java.util.Hashtable;

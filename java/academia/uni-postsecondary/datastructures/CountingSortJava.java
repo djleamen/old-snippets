@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program implements the counting sort algorithm to sort an array of integers.
 
 public class CountingSortJava {

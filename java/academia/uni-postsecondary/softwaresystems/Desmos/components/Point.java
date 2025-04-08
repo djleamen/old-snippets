@@ -1,9 +1,14 @@
-package csci2020u.lab09.components;
+/*
+ * Description: Point class representing a point on the graph.
+ * It extends the GraphComponent class and provides methods to
+ * get the coordinates, root type, and draw the point on the graph.
+ * The class uses an Ellipse2D object to represent the point.
+ */
 
 import java.awt.Graphics2D;
 import java.awt.geom.Ellipse2D;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.enums.RootType;
+import GraphGUI;
+import RootType;
 
 public class Point extends GraphComponent {
     

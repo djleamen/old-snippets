@@ -1,4 +1,8 @@
-package softwaresystems.Megaman;
+/*
+ * Description:
+ * This class implements the ChangeListener interface to handle changes in a JSlider.
+ * It adjusts the delay of a Timer based on the slider value.
+ */
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

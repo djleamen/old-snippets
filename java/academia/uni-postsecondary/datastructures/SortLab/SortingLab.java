@@ -1,4 +1,3 @@
-package datastructures.SortLab;
 // Description: This program sorts an array of Burritos and a LinkedList of Burritos by size and protein.
 
 import java.util.LinkedList;

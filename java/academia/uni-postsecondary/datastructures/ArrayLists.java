@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program demonstrates the use of ArrayLists in Java.
 
 import java.util.ArrayList;

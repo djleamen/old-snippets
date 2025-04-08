@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Java program to implement Quick Sort, Merge Sort, and Counting Sort algorithms.
 
 public class QuickSortJava {

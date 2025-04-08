@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This is a simple program that uses a HashMap to store the number of apples in stock. 
 
 import java.util.HashMap;

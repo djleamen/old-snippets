@@ -1,4 +1,3 @@
-package datastructures.DoublyLinkedLab;
 // Description: This program creates a doubly linked list of burritos and tests the methods of the Burrito class.
 
 class BurritoOrder {

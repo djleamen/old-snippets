@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Node class for a linked list
 
 public class Node<E> {

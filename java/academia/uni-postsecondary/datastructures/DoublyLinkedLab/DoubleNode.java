@@ -1,4 +1,3 @@
-package datastructures.DoublyLinkedLab;
 // Description: This class is a generic class that represents a node in a doubly linked list.
 
 public class DoubleNode<E> {

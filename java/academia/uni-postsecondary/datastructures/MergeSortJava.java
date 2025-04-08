@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Merge sort implementation in Java.
 
 public class MergeSortJava {

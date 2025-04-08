@@ -1,4 +1,3 @@
-package datastructures;
 /**
  * 
  * This is a test program to demonstrate the use of variables, if-else, and loops in Java

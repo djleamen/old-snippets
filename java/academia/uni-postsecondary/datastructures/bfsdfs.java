@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Breadth First Search and Depth First Search algorithms
 
 import java.util.ArrayList;

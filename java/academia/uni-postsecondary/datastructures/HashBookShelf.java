@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A simple bookshelf class that uses a HashMap to store books.
 
 import java.util.HashMap;

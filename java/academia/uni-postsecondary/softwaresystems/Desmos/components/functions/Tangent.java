@@ -1,9 +1,15 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description:
+ * This class represents the tangent function and its derivatives.
+ * It extends the Trignometric class and provides methods to calculate
+ * the first and second derivatives, as well as the value of the function
+ * at a given x-coordinate.
+ */
 
 import java.util.HashSet;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.Point;
-import csci2020u.lab09.enums.FunctionType;
+import GraphGUI;
+import Point;
+import FunctionType;
 
 public class Tangent extends Trignometric {
     

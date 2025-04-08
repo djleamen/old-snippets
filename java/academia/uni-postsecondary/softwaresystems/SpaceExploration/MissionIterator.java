@@ -1,4 +1,9 @@
-package softwaresystems.SpaceExploration;
+/*
+ * Description:
+ * This class implements an iterator for a collection of missions.
+ * It allows for sequential access to the missions in the collection.
+ */
+
 import java.util.Iterator;
 import java.util.ArrayList;
 

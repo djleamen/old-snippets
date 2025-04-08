@@ -1,11 +1,18 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description: Polynomial class for parsing and evaluating 
+ * polynomial functions. It can handle polynomials of any degree and
+ * provides methods to calculate the first and second derivatives.
+ * The class also includes a method to evaluate the polynomial at a
+ * given x-coordinate, depending on the type of function (original,
+ * first derivative, second derivative, or third derivative).
+ */
 
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.enums.FunctionType;
+import GraphGUI;
+import FunctionType;
 
 public final class Polynomial extends Function {
 

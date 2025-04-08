@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program compares the timing of two sorting algorithms: 
 // Merge Sort and Selection Sort.
 

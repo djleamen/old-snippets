@@ -1,8 +1,14 @@
-package csci2020u.lab09.components.functions;
+/*
+ * Description: represents a trigonometric function and extends 
+ * the Function class. It provides methods to parse the function
+ * string and extract the coefficients a and k, which are used
+ * to calculate the first and second derivatives, as well as the
+ * value of the function at a given x-coordinate. 
+ */
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import csci2020u.lab09.GraphGUI;
+import GraphGUI;
 
 public abstract class Trignometric extends Function {
 

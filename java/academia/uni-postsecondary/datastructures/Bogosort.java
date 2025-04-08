@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Java program that implements Bogosort, a highly inefficient sorting algorithm.
 
 import java.util.Arrays;

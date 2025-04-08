@@ -1,4 +1,3 @@
-package datastructures.DoublyLinkedLab;
 // Description: This class is a representation of a burrito object.
 
 class Burrito {

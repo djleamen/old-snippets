@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Implement the selection sort algorithm in Java.
 
 import java.util.Arrays;

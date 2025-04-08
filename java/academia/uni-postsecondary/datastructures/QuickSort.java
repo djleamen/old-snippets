@@ -1,4 +1,3 @@
-package datastructures;
 // Description: QuickSort implementation in Java
 
 import java.util.Arrays;

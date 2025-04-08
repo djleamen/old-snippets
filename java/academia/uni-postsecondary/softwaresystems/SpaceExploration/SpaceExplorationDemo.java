@@ -1,5 +1,4 @@
-package softwaresystems.SpaceExploration;
-import softwaresystems.SpaceExploration.SpaceFacade;
+import SpaceFacade;
 
 public class SpaceExplorationDemo {
     public static void main(String[] args) {

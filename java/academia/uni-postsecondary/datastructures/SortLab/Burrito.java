@@ -1,4 +1,3 @@
-package datastructures.SortLab;
 /**
  * This class represents a Burrito with various attributes and methods to manipulate them.
  */

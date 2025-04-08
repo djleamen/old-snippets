@@ -1,10 +1,16 @@
-package csci2020u.lab09.listeners;
+/*
+ * Description: This class listens for changes in the domain and range 
+ * text fields in a graphing application. When the user inputs a value,
+ * it checks if the value is a valid number. If not, it shows an error
+ * message. The class is part of a larger application that allows users
+ * to graph functions and manipulate their properties.
+ */
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
-import csci2020u.lab09.components.GraphPanel;
+import GraphPanel;
 
 public class DomainRangeListener implements ActionListener {
 

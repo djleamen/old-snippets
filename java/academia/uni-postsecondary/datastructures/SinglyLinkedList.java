@@ -1,4 +1,3 @@
-package datastructures;
 // Define a class SinglyLinkedList that implements a singly linked list.
 
 public class SinglyLinkedList<E> {

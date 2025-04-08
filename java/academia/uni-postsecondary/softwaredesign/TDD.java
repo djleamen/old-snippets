@@ -1,21 +1,7 @@
+// Description: This code demonstrates the concept of Test-Driven Development (TDD) in Java.
+
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-
-// TDD: Reverse a String with Special Rules
-// Implement a function that reverses a string but keeps numbers in their original
-// positions using Test-Driven Development (TDD):
-// Red - Write a test (it should fail)
-// Green - Implement just enough to pass
-// Refactor - Clean up while keeping tests passing
-// Repeat - Add another test and continue
-// Tasks
-// 1. Reverse a simple word (e.g., "hello" -> "olleh")
-// 2. Keep numbers in place (e.g., "h3llo" -> "o3llh")
-// 3. Handle punctuation (e.g., "h3ll.o" -> "o3ll.h")
-// Rules
-// Write tests first - No implementation before tests.
-// Run tests after each change - Ensure nothing breaks.
-// Refactor only after passing tests - Keep improving.
 
 public class TDD {
     // Test Case 0 - Empty String

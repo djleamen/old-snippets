@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A class that creates a rectangle object with a length and width and displays the rectangle with the given dimensions.
 
 public class Rectangle {

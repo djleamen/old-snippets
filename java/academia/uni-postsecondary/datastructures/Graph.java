@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program is a graph that finds the sinks of a graph, 
 // counts the in-degree of a vertex, prints the graph, finds all paths, 
 // finds the total weight of the graph, and finds the shortest paths from a 

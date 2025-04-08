@@ -1,5 +1,3 @@
-package datastructures.TreeLab;
-
 /**
  * Represents a company with employees and a CEO.
  */

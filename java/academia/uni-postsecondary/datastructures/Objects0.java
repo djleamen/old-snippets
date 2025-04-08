@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program prints a 2D grid with 5 points on it. 
 // The points are represented by asterisks.
 

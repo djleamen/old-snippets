@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program contains three methods that manipulate strings. 
 // The first method reverses a string, the second method checks if a string is a palindrome, 
 // and the third method counts the number of occurrences of a character in a string. 

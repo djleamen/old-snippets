@@ -1,4 +1,8 @@
-package softwaresystems;
+/*
+ * Description: This program fetches stock prices for AAPL and GOOG from a CSV file hosted on GitHub and plots them on a JPanel.
+ * It uses Java Swing for the GUI and Java 2D for drawing the lines.
+ * The program includes methods to download stock prices, plot the lines, and draw a legend.
+ */
 
 import javax.swing.*;
 import java.awt.*;

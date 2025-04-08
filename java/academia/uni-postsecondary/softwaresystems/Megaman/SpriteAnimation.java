@@ -1,6 +1,10 @@
-package softwaresystems.Megaman;
-import softwaresystems.Megaman.SpriteGUI;
-import softwaresystems.Megaman.KeyBoardListener;
+/*
+ * Description: This class is part of a simple sprite animation program. It uses Java Swing to create a GUI that displays a sprite image. The image is loaded from the resources folder based on the current picture number, which is managed by a timer and key listener.
+ * The class extends JPanel and overrides the paintComponent method to draw the sprite image on the panel. The image is scaled to 5 times its original size for better visibility.
+ */
+
+import SpriteGUI;
+import KeyBoardListener;
 
 import java.awt.*;
 import javax.swing.*;

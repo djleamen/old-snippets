@@ -1,4 +1,3 @@
-package datastructures;
 // Define a class, BST, that represents a binary search tree.
 
 import java.util.ArrayList;

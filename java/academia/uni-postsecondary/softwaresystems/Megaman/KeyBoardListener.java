@@ -1,4 +1,6 @@
-package softwaresystems.Megaman;
+/*
+ * Description: This class implements the KeyListener interface to handle keyboard events for the SpriteGUI.
+ */
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

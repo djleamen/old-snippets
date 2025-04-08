@@ -1,3 +1,7 @@
+/*
+ * Description: This is the main class for the WeatherChart application.
+ */
+
 import javax.swing.*;
 
 public class App {

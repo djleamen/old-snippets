@@ -1,7 +1,12 @@
-package softwaresystems.Megaman;
-import softwaresystems.Megaman.SpeedSlider;
-import softwaresystems.Megaman.SpriteAnimation;
-import softwaresystems.Megaman.TimerListener;
+/*
+ * Description: This class creates a GUI for sprite animation using Java Swing.
+ * It initializes the main frame, adds a speed slider and a sprite panel, and sets up the timer for animation.
+ * The class also handles keyboard input for controlling the sprite's movement and actions.
+ */
+
+import SpeedSlider;
+import SpriteAnimation;
+import TimerListener;
 
 import javax.swing.*;
 import java.awt.*;

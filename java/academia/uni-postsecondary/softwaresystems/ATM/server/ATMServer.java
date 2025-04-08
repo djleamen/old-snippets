@@ -1,4 +1,7 @@
-package csci2020u.lab10.server;
+// Description: ATMServer.java
+// This program implements a simple ATM server that allows clients to 
+// connect and perform banking operations. The server uses sockets 
+// to communicate with clients and stores user information in a hash map.
 
 import java.io.*;
 import java.net.*;

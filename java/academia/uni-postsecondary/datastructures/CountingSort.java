@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Counting Sort implementation in Java
 
 public class CountingSort {

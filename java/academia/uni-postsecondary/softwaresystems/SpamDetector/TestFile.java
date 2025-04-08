@@ -1,4 +1,7 @@
-package softwaresystems.SpamDetector;
+/*
+ * Description: This class represents a test file with its filename, spam probability, and actual class.
+ * It provides methods to get and set these attributes, as well as a method to round the spam probability to five decimal places.
+ */
 
 import java.text.DecimalFormat;
 

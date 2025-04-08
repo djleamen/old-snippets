@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program demonstrates the use of a Queue in Java.
 
 import java.util.LinkedList;

@@ -1,4 +1,6 @@
-package csci2020u.lab09.enums;
+/*
+ * Description: Enum representing different types of functions.
+ */
 
 public enum FunctionType {
     ORIGINAL,

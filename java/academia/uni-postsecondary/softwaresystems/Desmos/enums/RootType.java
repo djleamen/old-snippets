@@ -1,12 +1,17 @@
-package csci2020u.lab09.enums;
+/*
+ * Description: This enum class represents different types of roots 
+ * (X-Intercept, Critical Point, Inflection Point) for a given function.
+ * Each root type has a color, name, and associated function types for
+ * calculating the roots. 
+ */
 
 import java.awt.Color;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.HashSet;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.Point;
-import csci2020u.lab09.components.functions.Function;
+import GraphGUI;
+import Point;
+import Function;
 
 public enum RootType {
 

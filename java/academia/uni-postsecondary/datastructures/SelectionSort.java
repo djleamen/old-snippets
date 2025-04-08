@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Selection sort algorithm implementation in Java
 
 public class SelectionSort {

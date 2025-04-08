@@ -1,3 +1,6 @@
+// Description: This is the controller class for the chat application.
+// It handles user input and updates the model and view accordingly.
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

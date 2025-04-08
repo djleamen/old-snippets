@@ -1,7 +1,12 @@
-package csci2020u.lab09.components;
+/*
+ * Description: This class represents a component of the graph 
+ * and serves as an abstract base class for all graph components.
+ * It provides a constructor that takes a GraphGUI object and
+ * an abstract method for drawing the component using a Graphics2D object.
+ */
 
 import java.awt.Graphics2D;
-import csci2020u.lab09.GraphGUI;
+import GraphGUI;
 
 public abstract class GraphComponent {
 

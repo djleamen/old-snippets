@@ -1,6 +1,3 @@
-package datastructures;
-// Description: A weighted graph implementation in Java
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;

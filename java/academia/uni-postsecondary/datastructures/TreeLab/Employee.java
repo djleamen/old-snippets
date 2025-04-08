@@ -1,5 +1,3 @@
-package datastructures.TreeLab;
-
 // Description: This class represents an employee in a company. 
 
 import java.util.LinkedList;

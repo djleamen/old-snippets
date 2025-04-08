@@ -1,7 +1,6 @@
-package softwaresystems.SpaceExploration;
-import softwaresystems.SpaceExploration.Mission;
-import softwaresystems.SpaceExploration.MissionCollection;
-import softwaresystems.SpaceExploration.MissionControl;
+import Mission;
+import MissionCollection;
+import MissionControl;
 
 public class SpaceFacade {
     private final MissionControl missionControl;

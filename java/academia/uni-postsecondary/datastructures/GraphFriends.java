@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A simple graph representation of a social media following network.
 
 import java.util.ArrayList;

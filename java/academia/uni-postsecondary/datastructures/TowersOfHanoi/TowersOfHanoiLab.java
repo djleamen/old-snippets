@@ -1,4 +1,3 @@
-package datastructures.TowersOfHanoi;
 /**
  * A class to solve the Towers of Hanoi problem.
  * This class provides the helper methods, however students must implement the actual problem

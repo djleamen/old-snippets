@@ -1,4 +1,3 @@
-package datastructures.Stack;
 // Define a class called Stack that implements a stack data structure.
 
 public class Stack<E> {

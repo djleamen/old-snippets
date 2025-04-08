@@ -1,4 +1,6 @@
-package csci2020u.lab10.client;
+// Description: ATMClient.java
+// This program implements a simple ATM client that connects 
+// to a server and allows users to perform various banking operations.
 
 import java.io.*;
 import java.net.*;

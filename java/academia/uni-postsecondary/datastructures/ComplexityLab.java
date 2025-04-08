@@ -1,4 +1,3 @@
-package datastructures;
 // Description: Class to analyze time complexity of sorting algorithms.
 
 import java.util.Arrays;

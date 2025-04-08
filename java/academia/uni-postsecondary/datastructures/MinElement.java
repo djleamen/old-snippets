@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program finds the minimum element in an array using recursion.
 
 public class MinElement {

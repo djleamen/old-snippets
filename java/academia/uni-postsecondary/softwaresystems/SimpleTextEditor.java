@@ -1,4 +1,8 @@
-package softwaresystems;
+/*
+ * Description: A simple text editor application that allows users to open, edit, and save text files.
+ * It uses Java Swing for the GUI and provides basic file operations.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

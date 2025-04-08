@@ -1,6 +1,3 @@
-package datastructures;
-// Description: A binary tree implementation in Java
-
 import java.util.LinkedList;
 import java.util.Queue;
 

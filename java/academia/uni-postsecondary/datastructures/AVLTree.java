@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program implements an AVL tree in Java.
 
 class AVLTree {

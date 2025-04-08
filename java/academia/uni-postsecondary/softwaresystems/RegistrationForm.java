@@ -1,4 +1,11 @@
-package softwaresystems;
+/*
+ * Description: This program creates a registration form using Java Swing.
+ * It includes fields for username, password, full name, email, phone number,
+ * and date of birth. The phone number field is formatted, and the date of
+ * birth field uses a date picker. When the register button is clicked,
+ * the entered information is printed to the console.
+ */
+
 import org.jdatepicker.impl.JDatePanelImpl;
 import org.jdatepicker.impl.JDatePickerImpl;
 import org.jdatepicker.impl.UtilDateModel;

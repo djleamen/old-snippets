@@ -2,9 +2,14 @@
  * CSCI 2020U - Assignment 01
  * DJ Leamen
  * 2025-03-01
+ * 
+ * This program implements a spam detector using a Naive Bayes classifier.
+ * It reads training data from "train/spam" and "train/ham" directories,
+ * and tests the classifier using data from "test/spam" and "test/ham" directories.
+ * The program calculates the probability of a file being spam based on the words it contains.
+ * The training data is used to compute the probability of each word being spam or ham.
+ * The test data is then classified based on these probabilities.
  */
-
-package softwaresystems.SpamDetector;
 
 import java.io.File;
 import java.io.IOException;

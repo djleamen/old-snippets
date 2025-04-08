@@ -1,4 +1,8 @@
-package softwaresystems;
+/*
+ * In-lecture code-along
+ * Description: A simple GUI application using Java Swing
+ */
+
 import javax.swing.*;
 import java.awt.*;
 

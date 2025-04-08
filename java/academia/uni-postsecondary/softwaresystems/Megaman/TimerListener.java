@@ -1,5 +1,11 @@
-package softwaresystems.Megaman;
-import softwaresystems.Megaman.SpriteGUI;
+/*
+ * Description:
+ * This class implements the ActionListener interface and is used to handle
+ * timer events for the SpriteGUI. It updates the sprite's position and
+ * animation based on the current picture number and key states.
+ */
+
+import SpriteGUI;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

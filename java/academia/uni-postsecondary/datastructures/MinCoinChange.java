@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program finds the minimum number of coins needed to make a given amount using a given set of coin denominations.
 
 public class MinCoinChange {

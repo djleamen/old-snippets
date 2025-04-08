@@ -1,4 +1,3 @@
-package datastructures;
 // Define a class that contains a main method that prints out the first 25 powers of 2.
 
 import java.lang.Math;

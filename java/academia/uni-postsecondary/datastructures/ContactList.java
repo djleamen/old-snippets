@@ -1,4 +1,3 @@
-package datastructures;
 // Description: A class representing a contact list that allows for multiple contact methods 
 // (e.g., phone numbers) per name.
 

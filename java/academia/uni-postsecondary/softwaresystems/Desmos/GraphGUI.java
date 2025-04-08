@@ -1,7 +1,14 @@
-package csci2020u.lab09;
+/*
+ * Description: Graphing Calculator GUI
+ * This class creates a GUI for a graphing calculator application.
+ * It includes a graph panel for displaying graphs and a control panel for user input.
+ * The GUI allows users to input equations, set domain and range values, and zoom in/out.
+ * It also provides functionality to display first and second derivatives, and to reset or quit the application.
+ * The GUI is built using Java Swing components and is designed to be user-friendly.
+ */
 
-import csci2020u.lab09.enums.RootType;
-import csci2020u.lab09.components.GraphPanel;
+import RootType;
+import GraphPanel;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -16,12 +23,12 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.LineBorder;
-import csci2020u.lab09.listeners.DomainRangeListener;
-import csci2020u.lab09.listeners.DrawListener;
-import csci2020u.lab09.listeners.PointClickListener;
-import csci2020u.lab09.listeners.QuitListener;
-import csci2020u.lab09.listeners.ResetListener;
-import csci2020u.lab09.listeners.ZoomListener;
+import DomainRangeListener;
+import DrawListener;
+import PointClickListener;
+import QuitListener;
+import ResetListener;
+import ZoomListener;
 
 public final class GraphGUI {
 

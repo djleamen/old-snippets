@@ -1,13 +1,19 @@
-package csci2020u.lab09.listeners;
+/*
+ * Description: 
+ * This class is a listener for the draw button in the GraphGUI.
+ * It validates the input equation and sets the function in the GraphPanel.
+ * It also updates the first and second derivative labels in the GUI.
+ * If the input is invalid, it shows an error message.
+ */
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import javax.swing.JOptionPane;
-import csci2020u.lab09.GraphGUI;
-import csci2020u.lab09.components.GraphPanel;
-import csci2020u.lab09.components.functions.*;
+import GraphGUI;
+import GraphPanel;
+import functions.*;
 
 public class DrawListener implements ActionListener {
 

@@ -1,3 +1,6 @@
+// Description: This class represents the view in the MVC pattern 
+// for a simple chat application.
+
 import javax.swing.*;
 import java.awt.*;
 

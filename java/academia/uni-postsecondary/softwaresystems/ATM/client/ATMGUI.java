@@ -1,4 +1,4 @@
-package csci2020u.lab10.client;
+// Description: ATM GUI class for creating a modern ATM interface using Java Swing. 
 
 import javax.swing.*;
 import java.awt.*;

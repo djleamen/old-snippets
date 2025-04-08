@@ -1,4 +1,3 @@
-package datastructures;
 // Description: This program compares the performance of Merge Sort and Quick Sort algorithms
 
 public class CompareSorts {
