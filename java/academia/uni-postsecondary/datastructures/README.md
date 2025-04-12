@@ -1,0 +1,1 @@
+The contained projects were originally submitted as coursework for CSCI2010U Data Structures at Ontario Tech University, Fall 2024.

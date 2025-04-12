@@ -1,0 +1,1 @@
+The contained projects were originally submitted as coursework for CSCI1010U and CSCI1020U (Programming Workshop I, Programming Workshop II) at Ontario Tech University, Fall 2023 and Winter 2024.

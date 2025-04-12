@@ -1,0 +1,1 @@
+The contained projects were originally submitted as coursework for CSCI2050U Computer Architecture I at Ontario Tech University, Winter 2024.

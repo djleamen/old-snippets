@@ -1,0 +1,1 @@
+The contained projects were originally submitted as coursework for CSCI1030U Introduction to Computer Science at Ontario Tech University, Fall 2023.
