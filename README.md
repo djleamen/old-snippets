@@ -32,6 +32,7 @@ The `python` folder contains projects from various academic years and courses. E
 ### Shell
 The `shell` folder contains scripts for system automation. Example:
 - `backup.sh`: Automates file backups.
+- `brew.sh`: Mock pipeline to brew coffee and display an ASCII cup.
 
 ### SQL
 The `sql` folder includes database-related projects. Example:
