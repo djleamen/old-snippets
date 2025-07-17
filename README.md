@@ -138,4 +138,4 @@ This repository serves as a reference for learning and revisiting programming co
 
 ## License
 
-This repository is for educational purposes only. Please respect academic integrity and do not reuse my code for coursework submissions. Thank you.
+This repository is for educational purposes only. **Please respect academic integrity and do not reuse my code for coursework submissions**. Thank you.
