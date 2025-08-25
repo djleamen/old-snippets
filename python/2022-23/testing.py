@@ -1,0 +1,20 @@
+import tkinter as tk
+
+root = tk.Tk()
+root.title("Quiz")
+label = tk.Label(root, text='How are you today?', fg="dark blue")
+label.pack()
+button1 = tk.Button(root, text='Good', width=25, command=root.hide)
+button2 = tk.Button(root, text='Bad', width=25, command=root.hide)
+button1.pack()
+button2.pack()
+root.mainloop()
+
+root.title("Quiz")
+label = tk.Label(root, text='Are you sure?', fg="dark red")
+label.pack()
+button1 = tk.Button(root, text='Yes', width=25, command=root.hide)
+button2 = tk.Button(root, text='No', width=25, command=root.hide)
+button1.pack()
+button2.pack()
+root.mainloop()
